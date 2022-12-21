@@ -14,9 +14,12 @@ Alliance Collaborators, please visit*
 
 This End User License Agreement (the “Agreement”) applies to all uses of
 software and services rendered by and in relation to the Mass Open Cloud
-Alliance (the “Services”). Each Service is provided and managed by the
-MOC Alliance Collaborator(s) identified [here](#service_name) (each a
-“Provider”).
+Alliance (the “Services”). Each Service is provided and managed by the MOC
+Alliance Collaborator(s) identified here (each a “Provider”). The
+Providers may change this Agreement at any time, and we will try to let
+you know as soon as possible about any new changes. If you do not wish
+to accept the new Agreement, you must immediately stop using the Services
+and terminate this Agreement pursuant to Section 12.
 
 1. **Description of the Services**
 
