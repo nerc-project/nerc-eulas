@@ -1,4 +1,4 @@
-*The Mass Open Cloud Alliance (MOC Alliance) has developed a production
+The Mass Open Cloud Alliance (MOC Alliance) has developed a production
 public cloud to provide domain researchers with predictable low-cost
 resources and facilitator support while enabling academic researchers
 and developers in the open source community to participate in close
@@ -7,10 +7,10 @@ Housed at the Boston University Hariri Institute for Computing and
 Computational Science & Engineering, the MOC Alliance is a unique
 collaborative effort between higher education, non-profit entities and
 industry (MOC Alliance Collaborators). For a full list of the MOC
-Alliance Collaborators, please visit*
-*[here](https://www.bu.edu/hic/centers-initiatives-labs/mocalliance/)*.
+Alliance Collaborators, please visit
+<https://www.bu.edu/hic/centers-initiatives-labs/mocalliance/>.
 
-**MASS OPEN CLOUD ALLIANCE (MOC ALLIANCE) END USER LICENSE AGREEMENT**
+# MASS OPEN CLOUD ALLIANCE (MOC ALLIANCE) END USER LICENSE AGREEMENT
 
 This End User License Agreement (the “Agreement”) applies to all uses of
 software and services rendered by and in relation to the Mass Open Cloud
@@ -21,7 +21,7 @@ you know as soon as possible about any new changes. If you do not wish
 to accept the new Agreement, you must immediately stop using the Services
 and terminate this Agreement pursuant to Section 12.
 
-1. **Description of the Services**
+## Description of the Services
 
 The Services are a cloud-based system through which users can upload,
 store, download, and share content from servers maintained by the
@@ -30,7 +30,7 @@ AGREEMENT AND THE TERMS AND CONDITIONS CONTAINED HEREIN. If you do not
 agree to all of the terms of this Agreement, you may not use the
 Services.
 
-2. **Intellectual Property**
+## Intellectual Property
 
 The Services allow you to upload, store, download, access, and share
 content (“User Content”). You retain ownership of any and all
@@ -48,7 +48,7 @@ provided to you as a part of and/or in connection with the Services,
 including any and all intellectual property rights that exist therein,
 whether registered or not, and wherever in the world they may exist.
 
-3. **Code of Conduct**
+## Code of Conduct
 
 In exchange for your right to use the Services, you agree not to misuse
 the Services or to help anyone else to do so. In particular, you agree
@@ -56,78 +56,78 @@ to not do any of the following with respect to the Services (unless
 otherwise authorized in writing by the Provider for a specified research
 purpose):
 
-1) probe, scan, or test the vulnerability of any system or network;
+1. probe, scan, or test the vulnerability of any system or network;
 
-2) breach or otherwise circumvent any security or authentication
-    measures;
+2. breach or otherwise circumvent any security or authentication
+   measures;
 
-3) willfully access, tamper with, or use non-public areas or parts of
-    the Services, or shared areas of the Services you haven't been given
-    access to;
+3. willfully access, tamper with, or use non-public areas or parts of
+   the Services, or shared areas of the Services you haven't been given
+   access to;
 
-4) willfully interfere with or disrupt any user, host, or network, for
-    example by sending a virus, overloading, flooding, spamming, or
-    mail-bombing any part of the Services;
+4. willfully interfere with or disrupt any user, host, or network, for
+   example by sending a virus, overloading, flooding, spamming, or
+   mail-bombing any part of the Services;
 
-5) access, search, or create accounts for the Services by any means
-    other than the Provider’s publicly supported interfaces (for
-    example, "scraping" or creating accounts in bulk);
+5. access, search, or create accounts for the Services by any means
+   other than the Provider's publicly supported interfaces (for
+   example, "scraping" or creating accounts in bulk#. ;
 
-6) send unsolicited communications, promotions or advertisements, or
-    spam;
+6. send unsolicited communications, promotions or advertisements, or
+   spam;
 
-7) send altered, deceptive or false source-identifying information,
-    including "spoofing" or "phishing";
+7. send altered, deceptive or false source-identifying information,
+   including "spoofing" or "phishing";
 
-8) promote or advertise products or services without appropriate
-    authorization;
+8. promote or advertise products or services without appropriate
+   authorization;
 
-9) circumvent quotas, including computer, networking and storage
-    limits;
+9. circumvent quotas, including computer, networking and storage
+   limits;
 
-10) sell the Services unless specifically authorized to do so;
+10. sell the Services unless specifically authorized to do so;
 
-11) publish or share materials that are unlawfully pornographic or
-    indecent, or that contain extreme acts of violence;
+11. publish or share materials that are unlawfully pornographic or
+   indecent, or that contain extreme acts of violence;
 
-12) advocate bigotry or hatred against any person or group of people
-    based on their race, religion, ethnicity, sex, gender identity,
-    sexual preference, disability, or impairment;
+12. advocate bigotry or hatred against any person or group of people
+   based on their race, religion, ethnicity, sex, gender identity,
+   sexual preference, disability, or impairment;
 
-13) violate the law in any way, including storing, publishing or sharing
-    material that is fraudulent, defamatory, or misleading;
+13. violate the law in any way, including storing, publishing or sharing
+   material that is fraudulent, defamatory, or misleading;
 
-14) violate the privacy or infringe the rights (including those rights
-    granted under trademark and copyright law) of others;
+14. violate the privacy or infringe the rights (including those rights
+   granted under trademark and copyright law#.  of others;
 
-15) use any component, function, or other facility of the Services to
-    store, access, transmit, or share any “personal information” of
-    individuals (as such term is defined in Section 1 of M.G.L. c. 93H);
+15. use any component, function, or other facility of the Services to
+   store, access, transmit, or share any “personal information” of
+   individuals (as such term is defined in Section 1 of M.G.L. c. 93H#. ;
 
-16) If you are a covered entity, business associate, or representative
-    of a covered entity or business associate (as those terms are
-    defined by the Health Insurance Portability and Accountability Act
-    of 1996 (“HIPAA”) at 45 C.F.R. § 160.103), use any component,
-    function, or other facility of the Services to store, access,
-    transmit, or share any “protected health information” (as such term
-    is defined at 45 C.F.R. § 160.103) or use the Services in any manner
-    that would make the Provider your or any third party’s business
-    associate;
+16. If you are a covered entity, business associate, or representative
+   of a covered entity or business associate (as those terms are
+   defined by the Health Insurance Portability and Accountability Act
+   of 1996 (“HIPAA”#.  at 45 C.F.R. § 160.103), use any component,
+   function, or other facility of the Services to store, access,
+   transmit, or share any “protected health information” (as such term
+   is defined at 45 C.F.R. § 160.#.  or use the Services in any manner
+   that would make the Provider your or any third party's business
+   associate;
 
-17) access the Services from sanctioned countries, per the list kept by
-    the Bureau of Industry and Security of the U.S. Department of
-    Commerce; or
+17. access the Services from sanctioned countries, per the list kept by
+   the Bureau of Industry and Security of the U.S. Department of
+   Commerce; or
 
-18) use or access the Services in any way that would make the Provider
-    subject to the law of any jurisdiction outside of the United States
-    requiring the Provider to take affirmative steps in order to store,
-    access, use, transfer, or otherwise process particular User Content
-    that includes personal information of individuals or other sensitive
-    information legally (e.g., the EU’s General Data Protection
-    Regulation, China’s Personal Information Protection Law, the U.S.’s
-    HIPAA).
+18. use or access the Services in any way that would make the Provider
+   subject to the law of any jurisdiction outside of the United States
+   requiring the Provider to take affirmative steps in order to store,
+   access, use, transfer, or otherwise process particular User Content
+   that includes personal information of individuals or other sensitive
+   information legally (e.g., the EU's General Data Protection
+   Regulation, China's Personal Information Protection Law, the U.S.'s
+   HIPAA#. .
 
-19. **Removal of Content**
+## Removal of Content
 
 The Provider assumes no liability for any content uploaded to or stored
 on the Services by other parties. However, the Provider reserves the
@@ -135,29 +135,29 @@ right at all times to determine whether any content violates this
 Agreement, and may pre-screen, move, refuse, modify, and/or remove
 content at any time, without prior notice and in its sole discretion.
 
-5. **Copyright**
+## Copyright
 
 You agree to refrain from any and all copyright infringement in your use
 of the Services. The Provider will respond to notices of copyright
 infringement if they comply with the law, and such notices should be
-reported using the Provider’s Digital Millennium Copyright Act
-procedures, which are available [here](#service_name). The Provider reserves
-the right to remove without notice any content that is alleged to be
-infringing and to terminate the accounts of repeat infringers. The designated
-agent for notice of alleged copyright infringement on the Services is
-identified here.
+reported using the Provider's Digital Millennium Copyright Act
+procedures, which are available in the [contact information
+section](#contact-information). The Provider reserves the right to remove without
+notice any content that is alleged to be infringing and to terminate the
+accounts of repeat infringers. The designated agent for notice of alleged
+copyright infringement on the Services is identified here.
 
-6. **Enforcement**
+## Enforcement
 
 If you violate any of the terms of this Agreement, or if your use of the
-Services intentionally or unintentionally threatens the Provider’s
+Services intentionally or unintentionally threatens the Provider's
 ability to provide the Services or other systems, the Provider may
 immediately take any action necessary to ensure compliance with this
-Agreement and the protection of the Services or the Provider’s systems,
+Agreement and the protection of the Services or the Provider's systems,
 up to and including termination or suspension of your access to the
 Services and deletion of your content.
 
-7. **Provider’s Warranties and Disclaimers**
+## Provider's Warranties and Disclaimers
 
 The Provider agrees to provide the Services using a reasonable level of
 skill and care. However, other than as expressly set out in this
@@ -168,7 +168,7 @@ the Services, or their reliability, availability, or ability to meet
 your needs. THE PROVIDER PROVIDES THE SERVICES ON AN “AS IS” AND “AS
 AVAILABLE” BASIS.
 
-The Services may be unavailable from time to time. While the Provider’s
+The Services may be unavailable from time to time. While the Provider's
 goal is the keep the Services up and running, all online services suffer
 occasional disruptions and outages, and the Provider is not liable for
 any disruption or loss you may suffer as a result. The Provider
@@ -182,7 +182,7 @@ TO THE EXTENT PERMITTED BY LAW, THE PROVIDER DISCLAIMS ANY AND ALL
 WARRANTIES NOT EXPLICITLY GRANTED HEREIN, INCLUDING, BUT NOT LIMITED TO,
 ANY IMPLIED WARRANTIES OF FITNESS, MERCHANTABILITY, OR NON-INFRINGEMENT.
 
-8. **Personal Data and Other Confidential Information**
+## Personal Data and Other Confidential Information
 
 To the extent your use of the Services requires it, you are responsible
 for providing notice to, and obtaining consents from, individuals
@@ -193,7 +193,7 @@ You understand and agree that you are solely responsible for any
 liabilities, fines and penalties arising from your failure to comply
 with this Section 8 and any other provision of this Agreement.
 
-9. **Telemetry Data**
+## Telemetry Data
 
 For the purposes of this Agreement, “telemetry data” shall mean any
 information related to your utilization of the Services.
@@ -215,7 +215,7 @@ and approved by the MOC Alliance Data Governance Committee. MOC Alliance
 may also post and make broadly available some telemetry data in an
 anonymized manner on the Internet.
 
-10. **Limitation of Liability**
+## Limitation of Liability
 
 The Provider will use reasonable security measures to protect content
 stored on the Services. However, the Provider makes no guarantees that
@@ -230,7 +230,7 @@ ATTRIBUTABLE TO USE OF THE SERVICES. FOR THE SAKE OF CLARITY, THE
 PROVIDER WILL NOT BE RESPONSIBLE FOR THE LOSS OR BREACH OF YOUR USER
 CONTENT.
 
-11. **Provider’s Right to Update Services**
+## Provider's Right to Update Services
 
 The Provider reserves the right at any time to modify this Agreement and
 to impose new or additional terms or conditions on your use of the
@@ -240,38 +240,37 @@ immediately and will be incorporated into this Agreement. In the event
 that you refuse to accept such changes, the Provider will have the right
 to terminate this Agreement pursuant to Section 12.
 
-12. **Termination of the Agreement**
+## Termination of the Agreement
 
-This Agreement may be terminated by you at any time by discontinuing
-your use of the Service and deleting your User Content or by written
-notice to the Provider’s technical/support contact listed
-[here](#service_name). In such an event, the Provider may immediately
-terminate your account, but it may take up to 10 business days to do
-so. You should ensure prior to termination that you have transferred
-all data stored on the Services to another storage medium.
+This Agreement may be terminated by you at any time by discontinuing your use
+of the Service and deleting your User Content or by written notice to the
+Provider's technical/support contact listed in the [contact information
+section](#contact-information). In such an event, the Provider may immediately
+terminate your account, but it may take up to 10 business days to do so. You
+should ensure prior to termination that you have transferred all data stored on
+the Services to another storage medium.
 
-This Agreement may be terminated by the Provider for any reason upon 48
-hours’ notice to you. In such an event, you will be afforded a
-reasonable opportunity to retrieve your User Content from the Services.
-If your account access has been suspended pursuant to Section 6, you may
-request to retrieve your User Content from the Services by emailing
-Provider’s technical/support contact listed [here](#service_name). The
-Provider will take reasonable steps to arrange for you to retrieve such
-content, provided retrieval does not require an unreasonable amount of
-Provider’s time or resources and that the content is not illegal; is
-not unlawfully pornographic or indecent; does not depict extreme acts
-of violence; does not advocate bigotry or hatred against any person or
-group of people based on their race, religion, ethnicity, sex, gender
-identity, sexual preference, disability, or impairment; and does not
-violate the privacy or infringe the rights of others). Any such
-retrieval shall be at your own expense.
+This Agreement may be terminated by the Provider for any reason upon 48 hours’
+notice to you. In such an event, you will be afforded a reasonable opportunity
+to retrieve your User Content from the Services. If your account access has
+been suspended pursuant to Section 6, you may request to retrieve your User
+Content from the Services by emailing Provider's technical/support contact
+listed in the [contact information section](#contact-information). The Provider
+will take reasonable steps to arrange for you to retrieve such content,
+provided retrieval does not require an unreasonable amount of Provider's time
+or resources and that the content is not illegal; is not unlawfully
+pornographic or indecent; does not depict extreme acts of violence; does not
+advocate bigotry or hatred against any person or group of people based on their
+race, religion, ethnicity, sex, gender identity, sexual preference, disability,
+or impairment; and does not violate the privacy or infringe the rights of
+others). Any such retrieval shall be at your own expense.
 
-13. **Severability**
+## Severability
 
 If any part of this Agreement is declared unenforceable or invalid, the
 remainder will continue to be valid and enforceable.
 
-14. **Governing Law**
+## Governing Law
 
 This Agreement, and the interpretation, construction and enforceability
 hereof, and all rights and obligations of both you and the Provider,
@@ -283,9 +282,54 @@ any disputes under this Agreement shall be in the state and federal
 courts located in Boston, Massachusetts, and you hereby submit to, and
 waive objection to, the jurisdiction and venue of such courts.
 
-**<u>Information to be provided at link </u>**:
+## Contact Information
 
-| Resource Service| Resource Service Manager | Resource Host Owner | Copyright Infringement Contact | Technical Support Contact | General Contact | Link to Relevant Policies |
-|-|-|-|-|-|-|-|
-| [NERC](https://nerc.mghpcc.org/) | Trustees of Boston University </p>  and </p> President and Fellows of Harvard College | Trustees of Boston University </p>  and </p> President and Fellows of Harvard College | <p> Eric Jacobsen </p> <p> Boston University </p> <p> 111 Cummington Mall </p> Boston, MA 02215 </p>  email: dmca at bu.edu </p> [http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/](http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/) </p> And </p> Tracy Walden</p> Harvard University Information Technology</p> 784 Memorial Drive </p> Cambridge, MA 02139 </p> email:[dmca@harvard.edu](mailto:dmca@harvard.edu) </p> [https://dmca.harvard.edu](https://dmca.harvard.edu) | Contact the  [NERC Help Desk](https://mghpcc.supportsystem.com/)  for assistance or  [email us](mailto:help@nerc.mghpcc.org) . | Contact the [NERC Help Desk](https://mghpcc.supportsystem.com/) for assistance or [email us](mailto:help@nerc.mghpcc.org).  | https://www.bu.edu/policies/conditions-of-use-policy-computing-ethics/   https://docs.rc.fas.harvard.edu/kb/category/policy/ |
-|[NESE](https://nese.mghpcc.org/) | President and Fellows of Harvard College | Tracy Walden</p> Harvard University Information Technology</p> 784 Memorial Drive </p> Cambridge, MA 02139 </p> email:[dmca@harvard.edu](mailto:dmca@harvard.edu) </p> [https://dmca.harvard.edu](https://dmca.harvard.edu)</p> and </p>  Eric Jacobsen </p> <p> Boston University </p> <p> 111 Cummington Mall </p> Boston, MA 02215 </p>  email: dmca at bu.edu </p> [http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/](http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/)| [help@nese.mghpcc.org](mailto:help@nese.mghpcc.org)|   [help@nese.mghpcc.org](mailto:help@nese.mghpcc.org) | | |
+### NERC
+
+- **Resource service manager**: Trustees of Boston University and President and Fellows of Harvard College
+- **Resource host owner**: Trustees of Boston University and President and Fellows of Harvard College
+- **Copyright infringement contact**:
+
+  Eric Jacobsen  
+  Boston University  
+  111 Cummington Mall  
+  Boston, MA 02215  
+  email: dmca at bu.edu  
+  http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/  
+
+  Tracy Walden  
+  Harvard University Information Technology  
+  784 Memorial Drive  
+  Cambridge, MA 02139  
+  email:dmca@harvard.edu  
+  https://dmca.harvard.edu
+
+- **Technical support contact**: Contact the  [NERC Help Desk](https://mghpcc.supportsystem.com/)  for assistance or  email <help@nerc.mghpcc.org>.
+- **General support contact**: Contact the  [NERC Help Desk](https://mghpcc.supportsystem.com/)  for assistance or  email <help@nerc.mghpcc.org>.
+- **Link to relevant policies**:
+  - https://www.bu.edu/policies/conditions-of-use-policy-computing-ethics/
+  - https://docs.rc.fas.harvard.edu/kb/category/policy/
+
+### NESE
+
+- **Resource service manager**: President and Fellows of Harvard College
+- **Resource host owner**: President and Fellows of Harvard College
+- **Copyright infringement contact**:
+
+  Tracy Walden  
+  Harvard University Information Technology  
+  784 Memorial Drive  
+  Cambridge, MA 02139  
+  email:dmca@harvard.edu  
+  https://dmca.harvard.edu
+
+  Eric Jacobsen  
+  Boston University  
+  111 Cummington Mall  
+  Boston, MA 02215  
+  email: dmca at bu.edu  
+  http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/  
+
+- **Technical support contact**: <help@nese.mghpcc.org>
+- **General support contact**: N/A
+- **Link to relevant policies**: N/A
