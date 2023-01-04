@@ -15,11 +15,12 @@ Alliance Collaborators, please visit
 This End User License Agreement (the “Agreement”) applies to all uses of
 software and services rendered by and in relation to the Mass Open Cloud
 Alliance (the “Services”). Each Service is provided and managed by the MOC
-Alliance Collaborator(s) identified here (each a “Provider”). The
-Providers may change this Agreement at any time, and we will try to let
-you know as soon as possible about any new changes. If you do not wish
-to accept the new Agreement, you must immediately stop using the Services
-and terminate this Agreement pursuant to Section 12.
+Alliance Collaborator(s) identified in [the list of providers](#providers)
+(each a “Provider”). The Providers may change this Agreement at any time, and
+we will try to let you know as soon as possible about any new changes. If you
+do not wish to accept the new Agreement, you must immediately stop using the
+Services and terminate this Agreement pursuant to [Termination of the
+Agreement](#termination-of-the-agreement).
 
 ## Description of the Services
 
@@ -137,15 +138,15 @@ content at any time, without prior notice and in its sole discretion.
 
 ## Copyright
 
-You agree to refrain from any and all copyright infringement in your use
-of the Services. The Provider will respond to notices of copyright
-infringement if they comply with the law, and such notices should be
-reported using the Provider's Digital Millennium Copyright Act
-procedures, which are available in the [contact information
-section](#contact-information). The Provider reserves the right to remove without
-notice any content that is alleged to be infringing and to terminate the
-accounts of repeat infringers. The designated agent for notice of alleged
-copyright infringement on the Services is identified here.
+You agree to refrain from any and all copyright infringement in your use of the
+Services. The Provider will respond to notices of copyright infringement if
+they comply with the law, and such notices should be reported using the
+Provider's Digital Millennium Copyright Act procedures, which are available in
+the [list of providers](#providers). The Provider reserves the right to remove
+without notice any content that is alleged to be infringing and to terminate
+the accounts of repeat infringers. The designated agent for notice of alleged
+copyright infringement on the Services is identified in [the list of
+providers](#providers).
 
 ## Enforcement
 
@@ -191,7 +192,7 @@ through your use of the Services.
 
 You understand and agree that you are solely responsible for any
 liabilities, fines and penalties arising from your failure to comply
-with this Section 8 and any other provision of this Agreement.
+with this section of the document and any other provision of this Agreement.
 
 ## Telemetry Data
 
@@ -232,38 +233,38 @@ CONTENT.
 
 ## Provider's Right to Update Services
 
-The Provider reserves the right at any time to modify this Agreement and
-to impose new or additional terms or conditions on your use of the
-Services. Any material modifications and additional terms and conditions
-will be communicated to you and, if accepted, will be effective
-immediately and will be incorporated into this Agreement. In the event
-that you refuse to accept such changes, the Provider will have the right
-to terminate this Agreement pursuant to Section 12.
+The Provider reserves the right at any time to modify this Agreement and to
+impose new or additional terms or conditions on your use of the Services. Any
+material modifications and additional terms and conditions will be communicated
+to you and, if accepted, will be effective immediately and will be incorporated
+into this Agreement. In the event that you refuse to accept such changes, the
+Provider will have the right to terminate this Agreement pursuant to
+[Termination of the Agreement](#termination-of-the-agreement).
 
 ## Termination of the Agreement
 
 This Agreement may be terminated by you at any time by discontinuing your use
 of the Service and deleting your User Content or by written notice to the
-Provider's technical/support contact listed in the [contact information
-section](#contact-information). In such an event, the Provider may immediately
+Provider's technical/support contact listed in the [list of
+providers](#providers). In such an event, the Provider may immediately
 terminate your account, but it may take up to 10 business days to do so. You
 should ensure prior to termination that you have transferred all data stored on
 the Services to another storage medium.
 
-This Agreement may be terminated by the Provider for any reason upon 48 hours’
+This Agreement may be terminated by the Provider for any reason upon 48 hours
 notice to you. In such an event, you will be afforded a reasonable opportunity
 to retrieve your User Content from the Services. If your account access has
-been suspended pursuant to Section 6, you may request to retrieve your User
+been suspended pursuant to [Enforcement](#enforcement), you may request to retrieve your User
 Content from the Services by emailing Provider's technical/support contact
-listed in the [contact information section](#contact-information). The Provider
-will take reasonable steps to arrange for you to retrieve such content,
-provided retrieval does not require an unreasonable amount of Provider's time
-or resources and that the content is not illegal; is not unlawfully
-pornographic or indecent; does not depict extreme acts of violence; does not
-advocate bigotry or hatred against any person or group of people based on their
-race, religion, ethnicity, sex, gender identity, sexual preference, disability,
-or impairment; and does not violate the privacy or infringe the rights of
-others). Any such retrieval shall be at your own expense.
+listed in the [list of providers](#providers). The Provider will take
+reasonable steps to arrange for you to retrieve such content, provided
+retrieval does not require an unreasonable amount of Provider's time or
+resources and that the content is not illegal; is not unlawfully pornographic
+or indecent; does not depict extreme acts of violence; does not advocate
+bigotry or hatred against any person or group of people based on their race,
+religion, ethnicity, sex, gender identity, sexual preference, disability, or
+impairment; and does not violate the privacy or infringe the rights of others).
+Any such retrieval shall be at your own expense.
 
 ## Severability
 
@@ -282,7 +283,7 @@ any disputes under this Agreement shall be in the state and federal
 courts located in Boston, Massachusetts, and you hereby submit to, and
 waive objection to, the jurisdiction and venue of such courts.
 
-## Contact Information
+## Providers
 
 ### NERC
 
