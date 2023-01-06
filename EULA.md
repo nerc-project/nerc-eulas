@@ -72,7 +72,7 @@ purpose):
 
 5. access, search, or create accounts for the Services by any means
    other than the Provider's publicly supported interfaces (for
-   example, "scraping" or creating accounts in bulk#. ;
+   example, "scraping" or creating accounts in bulk);
 
 6. send unsolicited communications, promotions or advertisements, or
    spam;
@@ -99,19 +99,19 @@ purpose):
    material that is fraudulent, defamatory, or misleading;
 
 14. violate the privacy or infringe the rights (including those rights
-   granted under trademark and copyright law#.  of others;
+   granted under trademark and copyright law) of others;
 
 15. use any component, function, or other facility of the Services to
    store, access, transmit, or share any “personal information” of
-   individuals (as such term is defined in Section 1 of M.G.L. c. 93H#. ;
+   individuals (as such term is defined in Section 1 of M.G.L. c. 93H);
 
 16. If you are a covered entity, business associate, or representative
    of a covered entity or business associate (as those terms are
    defined by the Health Insurance Portability and Accountability Act
-   of 1996 (“HIPAA”#.  at 45 C.F.R. § 160.103), use any component,
+   of 1996 (“HIPAA”) at 45 C.F.R. § 160.103), use any component,
    function, or other facility of the Services to store, access,
    transmit, or share any “protected health information” (as such term
-   is defined at 45 C.F.R. § 160.#.  or use the Services in any manner
+   is defined at 45 C.F.R. § 160.103) or use the Services in any manner
    that would make the Provider your or any third party's business
    associate;
 
@@ -126,7 +126,7 @@ purpose):
    that includes personal information of individuals or other sensitive
    information legally (e.g., the EU's General Data Protection
    Regulation, China's Personal Information Protection Law, the U.S.'s
-   HIPAA#. .
+   HIPAA).
 
 ## Removal of Content
 
