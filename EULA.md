@@ -312,8 +312,73 @@ or expiration of this Agreement and continue in full force and effect.
 
 ## Information to be provided at link (example)
 
-| Resource Service (URL) | Resource Service Manager | Resource Host Owner | Copyright Infringement Contact | Technical/<br>Support Contact | General Contact | Link to Relevant Policies |
-| --- | --- | --- | --- | --- | --- | --- |
-| Mass Open Cloud (massopen.cloud) | Trustees of Boston University | Trustees of Boston University | Eric Jacobsen<br>Boston University<br>111 Cummington Mall<br>Boston, MA 02215<br>Email: dmca[at]bu.edu | <support@massopen.cloud>/<br><https://osticket.massopen.cloud> | <contact@massopen.cloud> | <https://www.bu.edu/policies/conditions-of-use-policy-computing-ethics/><br><http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/> |
-| NERC | Trustees of Boston University and Trustees of Harvard University | Trustees of Boston University and Trustees of Harvard University | Eric Jacobsen<br>Boston University<br>111 Cummington Mall<br>Boston, MA 02215<br>Email: dmca[at]bu.edu<br>And<br>Tracy Walden<br>Harvard University Information Technology<br>IT Security \| Policy, Risk and Compliance<br>+1.617.496.8515<br>784 Memorial Drive<br>Cambridge, MA 02139<br>Email: dmca[at]harvard.edu | [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/) for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC). | [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/) for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC). |     |
-| NESE | Trustees of<br>Harvard University | Trustees of Boston University and Trustees of Harvard University | Tracy Walden<br>Harvard University Information Technology<br>IT Security \| Policy, Risk and Compliance<br>+1.617.496.8515<br>784 Memorial Drive<br>Cambridge, MA 02139<br>Email: dmca[at]harvard.edu<br>And<br>Eric Jacobsen<br>Boston University<br>111 Cummington Mall<br>Boston, MA 02215<br>Email: dmca[at]bu.edu | <help@nese.mghpcc.org> | <help@nese.mghpcc.org> |     |
+### Mass Open Cloud (massopen.cloud)
+
+- **Resource Service Manager**: Trustees of Boston University
+- **Resource Host Owner**: Trustees of Boston University
+- **Copyright Infringement Contact**:
+
+  Eric Jacobsen  
+  Boston University  
+  111 Cummington Mall  
+  Boston, MA 02215  
+  Email: dmca[at]bu.edu
+
+- **Technical/ Support Contact**: [support@massopen.cloud](support@massopen.cloud)
+/ [https://osticket.massopen.cloud](https://osticket.massopen.cloud)
+- **General Contact**: [contact@massopen.cloud](contact@massopen.cloud)
+- **Link to Relevant Policies**: [https://www.bu.edu/policies/conditions-of-use-policy-computing-ethics/](https://www.bu.edu/policies/conditions-of-use-policy-computing-ethics/)
+[http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/](http://www.bu.edu/tech/services/security/cyber-security/dmca/copyright/)
+
+### NERC
+
+- **Resource Service Manager**: Trustees of Boston University and Trustees of
+Harvard University
+- **Resource Host Owner**: Trustees of Boston University and Trustees of
+Harvard University
+- **Copyright Infringement Contact**:
+
+  Eric Jacobsen  
+  Boston University  
+  111 Cummington Mall  
+  Boston, MA 02215  
+  Email: dmca[at]bu.edu
+
+  Tracy Walden  
+  Harvard University Information Technology  
+  IT Security | Policy, Risk and Compliance  
+  +1.617.496.8515  
+  784 Memorial Drive  
+  Cambridge, MA 02139  
+  Email: dmca[at]harvard.edu
+
+- **Technical support contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
+for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
+- **Technical/ Support Contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
+for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
+- **Link to Relevant Policies**: N/A
+
+### NESE
+
+- **Resource Service Manager**: Trustees of Harvard University
+- **Resource Host Owner**: Trustees of Boston University and Trustees of Harvard
+University
+- **Copyright Infringement Contact**:
+
+  Tracy Walden  
+  Harvard University Information Technology  
+  IT Security | Policy, Risk and Compliance  
+  +1.617.496.8515  
+  784 Memorial Drive  
+  Cambridge, MA 02139  
+  Email: dmca[at]harvard.edu
+
+  Eric Jacobsen  
+  Boston University  
+  111 Cummington Mall  
+  Boston, MA 02215  
+  Email: dmca[at]bu.edu
+
+- **Technical support contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
+- **Technical/ Support Contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
+- **Link to Relevant Policies**: N/A
