@@ -352,9 +352,9 @@ Harvard University
   Cambridge, MA 02139  
   Email: dmca[at]harvard.edu
 
-- **Technical support contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
-for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
 - **Technical/ Support Contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
+for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
+- **General Contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
 for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
 - **Link to Relevant Policies**: N/A
 
@@ -379,6 +379,6 @@ University
   Boston, MA 02215  
   Email: dmca[at]bu.edu
 
-- **Technical support contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
 - **Technical/ Support Contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
+- **General Contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
 - **Link to Relevant Policies**: N/A
