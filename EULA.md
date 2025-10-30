@@ -344,11 +344,11 @@ Harvard University
   Boston, MA 02215  
   Email: dmca[at]bu.edu
 
-  Harvard University Information Technology
-  +1.617.495.7777
-  784 Memorial Drive
-  Cambridge, MA 02139
-  Email: dmca[at]harvard.edu
+  Harvard University Information Technology  
+  +1.617.495.7777  
+  784 Memorial Drive  
+  Cambridge, MA 02139  
+  Email: dmca[at]harvard.edu  
 
 - **Technical/ Support Contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
 for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
@@ -363,11 +363,11 @@ for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Iss
 University
 - **Copyright Infringement Contact**:
 
-  Harvard University Information Technology
-  +1.617.495.7777
-  784 Memorial Drive
-  Cambridge, MA 02139
-  Email: dmca[at]harvard.edu
+  Harvard University Information Technology  
+  +1.617.495.7777  
+  784 Memorial Drive  
+  Cambridge, MA 02139  
+  Email: dmca[at]harvard.edu  
 
   Eric Jacobsen  
   Boston University  
