@@ -318,10 +318,10 @@ or expiration of this Agreement and continue in full force and effect.
 - **Resource Host Owner**: Trustees of Boston University
 - **Copyright Infringement Contact**:
 
-  Eric Jacobsen  
-  Boston University  
-  111 Cummington Mall  
-  Boston, MA 02215  
+  Eric Jacobsen
+  Boston University
+  111 Cummington Mall
+  Boston, MA 02215
   Email: dmca[at]bu.edu
 
 - **Technical/ Support Contact**: [support@massopen.cloud](support@massopen.cloud)
@@ -338,17 +338,17 @@ Harvard University
 Harvard University
 - **Copyright Infringement Contact**:
 
-  Eric Jacobsen  
-  Boston University  
-  111 Cummington Mall  
-  Boston, MA 02215  
+  Eric Jacobsen
+  Boston University
+  111 Cummington Mall
+  Boston, MA 02215
   Email: dmca[at]bu.edu
 
-  Harvard University Information Technology  
-  +1.617.495.7777  
-  784 Memorial Drive  
-  Cambridge, MA 02139  
-  Email: dmca[at]harvard.edu  
+  Harvard University Information Technology
+  +1.617.495.7777
+  784 Memorial Drive
+  Cambridge, MA 02139
+  Email: dmca[at]harvard.edu
 
 - **Technical/ Support Contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
 for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
@@ -363,16 +363,16 @@ for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Iss
 University
 - **Copyright Infringement Contact**:
 
-  Harvard University Information Technology  
-  +1.617.495.7777  
-  784 Memorial Drive  
-  Cambridge, MA 02139  
-  Email: dmca[at]harvard.edu  
+  Harvard University Information Technology
+  +1.617.495.7777
+  784 Memorial Drive
+  Cambridge, MA 02139
+  Email: dmca[at]harvard.edu
 
-  Eric Jacobsen  
-  Boston University  
-  111 Cummington Mall  
-  Boston, MA 02215  
+  Eric Jacobsen
+  Boston University
+  111 Cummington Mall
+  Boston, MA 02215
   Email: dmca[at]bu.edu
 
 - **Technical/ Support Contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
