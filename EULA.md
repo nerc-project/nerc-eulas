@@ -344,19 +344,17 @@ Harvard University
   Boston, MA 02215  
   Email: dmca[at]bu.edu
 
-  Tracy Walden  
-  Harvard University Information Technology  
-  IT Security | Policy, Risk and Compliance  
-  +1.617.496.8515  
-  784 Memorial Drive  
-  Cambridge, MA 02139  
+  Harvard University Information Technology
+  +1.617.495.7777
+  784 Memorial Drive
+  Cambridge, MA 02139
   Email: dmca[at]harvard.edu
 
 - **Technical/ Support Contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
 for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
 - **General Contact**: [Contact the NERC Help Desk](https://mghpcc.supportsystem.com/)
 for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Issues%20on%20NERC).
-- **Link to Relevant Policies**: N/A
+- **Link to Relevant Policies**: [https://www.harvard.edu/copyright-issue/](https://www.harvard.edu/copyright-issue/)
 
 ### NESE
 
@@ -365,12 +363,10 @@ for assistance or [email us](mailto:help@nerc.mghpcc.org?subject=Reporting%20Iss
 University
 - **Copyright Infringement Contact**:
 
-  Tracy Walden  
-  Harvard University Information Technology  
-  IT Security | Policy, Risk and Compliance  
-  +1.617.496.8515  
-  784 Memorial Drive  
-  Cambridge, MA 02139  
+  Harvard University Information Technology
+  +1.617.495.7777
+  784 Memorial Drive
+  Cambridge, MA 02139
   Email: dmca[at]harvard.edu
 
   Eric Jacobsen  
@@ -381,4 +377,4 @@ University
 
 - **Technical/ Support Contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
 - **General Contact**: [help@nese.mghpcc.org](help@nese.mghpcc.org)
-- **Link to Relevant Policies**: N/A
+- **Link to Relevant Policies**: [https://www.harvard.edu/copyright-issue/](https://www.harvard.edu/copyright-issue/)
