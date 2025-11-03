@@ -318,11 +318,11 @@ or expiration of this Agreement and continue in full force and effect.
 - **Resource Host Owner**: Trustees of Boston University
 - **Copyright Infringement Contact**:
 
-  Eric Jacobsen
-  Boston University
-  111 Cummington Mall
-  Boston, MA 02215
-  Email: dmca[at]bu.edu
+  Eric Jacobsen  
+  Boston University  
+  111 Cummington Mall  
+  Boston, MA 02215  
+  Email: dmca[at]bu.edu  
 
 - **Technical/ Support Contact**: [support@massopen.cloud](support@massopen.cloud)
 / [https://osticket.massopen.cloud](https://osticket.massopen.cloud)
